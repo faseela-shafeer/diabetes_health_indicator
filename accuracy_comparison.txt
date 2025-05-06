@@ -1,0 +1,10 @@
+Accuracy for different models
+
+Logistic Regression: 0.8676
+Gradient Boosting: 0.8686
+Naive Bayes: 0.8670
+Support Vector Machine: 0.8688
+Random Forest: 0.8478
+Decision Tree: 0.8027
+K-Nearest Neighbors: 0.8494
+XGBoost: 0.8684
